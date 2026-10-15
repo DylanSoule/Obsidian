@@ -12,7 +12,7 @@ __Primary focus/topic:__
 
 ---
 ### Concepts
-- 
+- I started to learn about qt 
 ---
 ### Challenges
 - 
