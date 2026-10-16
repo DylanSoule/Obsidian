@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Basic linked technology through multiple routers in GNS3"
             }
+          },
+          {
+            "id": "5464c8ecffaafb5f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/basic-topoly.png.png"
+              },
+              "icon": "lucide-image",
+              "title": "basic-topoly.png"
+            }
           }
         ]
       }
@@ -191,8 +203,13 @@
   "active": "ebc6ba9cb1bcb5ba",
   "lastOpenFiles": [
     "Assets/basic-topoly.png.png",
-    "Assets",
+    "Hunch PDR simulation writeup.md",
+    "Assets/ovs-configuration.txt",
     "Basic linked technology through multiple routers in GNS3.md",
+    "Assets/VyOS-configuration.txt",
+    "Untitled.md",
+    "Assets/current-topology.png",
+    "Assets",
     "create a link.md",
     "Welcome.md"
   ]
