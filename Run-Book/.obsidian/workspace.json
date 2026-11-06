@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Week 10"
             }
+          },
+          {
+            "id": "2d381ba9a1999a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Week 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,6 +203,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "3b14c01778d20024",
-  "lastOpenFiles": []
+  "active": "2d381ba9a1999a76",
+  "lastOpenFiles": [
+    "Week 10.md",
+    "Week 12.md",
+    "Week 11.md"
+  ]
 }

@@ -6,7 +6,6 @@
       {
         "id": "345c3ac5ee865692",
         "type": "tabs",
-        "dimension": 50.25380710659899,
         "children": [
           {
             "id": "1d23ddf91b3a1930",
@@ -52,23 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "fc46f32168293d67",
-        "type": "tabs",
-        "dimension": 49.74619289340101,
-        "children": [
-          {
-            "id": "4792851165b2a955",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -234,9 +216,9 @@
   },
   "active": "f8988cbc62bc718d",
   "lastOpenFiles": [
-    "Basic C++ SMTP Implementation.md",
     "First Successful Email.md",
     "Beginnings of IMAP.md",
+    "Basic C++ SMTP Implementation.md",
     "Assets/Email-Fetch-Preview.png",
     "Assets/Email-Image-Preview.png",
     "Assets/Email-Image-Full.png",
